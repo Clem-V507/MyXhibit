@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Expositions</h2>
+<ul>
+    {% for exhibition in exhibitions %}
+        <li>
+            <a href="{{ url_for('exhibition.exhibition_detail', exhibition_id=loop.index0) }}">
+                {{ exhibition.title }}
+            </a>
+        </li>
+    {% else %}
+        <li>Aucune exposition créée pour le moment.</li>
+    {% endfor %}
+</ul>
+{% endblock %}
