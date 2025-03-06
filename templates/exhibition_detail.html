@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ exhibition.title }}</h2>
+<p>{{ exhibition.description }}</p>
+<h3>Œuvres</h3>
+<ul>
+    {% for artwork in exhibition.artworks %}
+        <li>
+            <h4>{{ artwork.title }}</h4>
+            <img src="{{ artwork.image_url }}" alt="{{ artwork.title }}" style="max-width: 300px;">
+            <p>{{ artwork.description }}</p>
+        </li>
+    {% else %}
+        <li>Aucune œuvre ajoutée.</li>
+    {% endfor %}
+</ul>
+<a href="{{ url_for('exhibition.add_artwork', exhibition_id=exhibition_id) }}">Ajouter une œuvre</a>
+{% endblock %}
