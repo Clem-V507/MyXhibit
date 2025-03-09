@@ -12,4 +12,4 @@ Ce projet est sous la licence **Creative Commons Attribution-NonCommercial-NoDer
 
 ### Aucune œuvre dérivée ne peut être réalisée sans l'autorisation expresse de l'auteur.
 
-Pour plus de détails sur cette licence, vous pouvez consulter le texte complet de la licence sur [Creative Commons - CC BY-NC-ND 4.0]([https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)).
+Pour plus de détails sur cette licence, vous pouvez consulter le texte complet de la licence sur [Creative Commons - CC BY-NC-ND 4.0]([https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr).
