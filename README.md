@@ -32,4 +32,4 @@ Les contributions sous forme de **suggestions de correction** ou de **rapports d
 
 ## Auteurs
 
-- **Clémence LOSA (Clem-V507)** - Développeuse principale
+- **Clémence LOSA** (Clem-V507) - Développeuse principale
