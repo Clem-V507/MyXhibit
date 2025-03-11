@@ -1,12 +1,11 @@
 # MyXhibit
 
-![Status](https://img.shields.io/badge/status-active-green.svg)
-![Statut](https://img.shields.io/badge/statut-phase%20de%20conception%20et%20de%20d%C3%A9veloppement-yellow.svg)
+![Status](https://img.shields.io/badge/status-WIP%20(Work%20in%20Progress)-yellow.svg)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg)
 
 **MyXhibit** est une application Web permettant de gérer, organiser et partager des œuvres d'art et des expositions. Elle offre une interface intuitive pour explorer, enrichir et partager des collections d'art tout en respectant les droits d'auteur des œuvres.
 
-⚠️ Statut du projet : Ce projet est actuellement en phase de conception et de développement. Des fonctionnalités peuvent évoluer au fil du temps.
+⚠️ Statut du projet : Ce projet est actuellement en phase de conception et de développement. Certaines fonctionnalités sont encore en cours de création.
 
 ---
 
