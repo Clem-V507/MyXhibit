@@ -1,9 +1,9 @@
-# MyXhibit
+# MyXpo
 
 ![Status](https://img.shields.io/badge/status-WIP%20(Work%20in%20Progress)-yellow.svg)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg)
 
-**MyXhibit** est une application Web permettant de gérer, organiser et partager des œuvres d'art et des expositions. Elle offre une interface intuitive pour explorer, enrichir et partager des collections d'art tout en respectant les droits d'auteur des œuvres.
+**MyXpo** est une application Web permettant de gérer, organiser et partager des œuvres d'art et des expositions. Elle offre une interface intuitive pour explorer, enrichir et partager des collections d'art tout en respectant les droits d'auteur des œuvres.
 
 ⚠️ Statut du projet : Ce projet est actuellement en phase de conception et de développement. Certaines fonctionnalités sont encore en cours de création.
 
@@ -40,7 +40,7 @@
 
 ## Technologies utilisées
 
-MyXhibit est développé avec une architecture MVC (Modèle-Vue-Contrôleur), permettant une séparation claire entre la logique métier, l'affichage et la gestion des données.
+MyXpo est développé avec une architecture MVC (Modèle-Vue-Contrôleur), permettant une séparation claire entre la logique métier, l'affichage et la gestion des données.
 
 ### Backend
 - **Python** avec **Flask** : Framework léger pour le développement web.
@@ -62,7 +62,7 @@ MyXhibit est développé avec une architecture MVC (Modèle-Vue-Contrôleur), pe
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/votre-utilisateur/myxhibit.git
+   git clone https://github.com/votre-utilisateur/myxpo.git
    ```
 
 2. Installez les dépendances Python :

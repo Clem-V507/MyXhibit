@@ -1,1 +1,1 @@
-console.log("MyXhibit application loaded.");
+console.log("MyXpo application loaded.");
