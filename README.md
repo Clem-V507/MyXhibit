@@ -9,6 +9,10 @@
 
 ---
 
+⚠️ Statut du projet : Ce projet est actuellement en phase de conception et de développement. Certaines fonctionnalités sont encore en cours de création.
+
+---
+
 ## Table des matières
 - [Fonctionnalités principales](#fonctionnalités-principales)
 - [Technologies utilisées](#technologies-utilisées)
@@ -40,7 +44,11 @@
 
 ## Technologies utilisées
 
+<<<<<<< HEAD
 MyXpo est développé avec une architecture MVC (Modèle-Vue-Contrôleur), permettant une séparation claire entre la logique métier, l'affichage et la gestion des données.
+=======
+MyXhibit est développé avec une architecture MVC (Modèle-Vue-Contrôleur), permettant une séparation claire entre la logique métier, l'affichage et la gestion des données.
+>>>>>>> bd6331be9aa40148db7363e3739483ef96a63db5
 
 ### Backend
 - **Python** avec **Flask** : Framework léger pour le développement web.
