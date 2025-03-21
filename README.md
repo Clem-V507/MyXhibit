@@ -9,10 +9,6 @@
 
 ---
 
-⚠️ Statut du projet : Ce projet est actuellement en phase de conception et de développement. Certaines fonctionnalités sont encore en cours de création.
-
----
-
 ## Table des matières
 - [Fonctionnalités principales](#fonctionnalités-principales)
 - [Technologies utilisées](#technologies-utilisées)
